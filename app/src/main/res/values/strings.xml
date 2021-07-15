@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dialogos</string>
+    <string name="dialog_title">"Mensaje de Bienvenida"</string>
+    <string name="dialog_title2">"Captura tu Correo electronico"</string>
+    <string name="dialog_message">"Bienvenido a la aplicación de dialogos"</string>
+    <string name="dialog_positive">"Guardar selección"</string>
+    <string name="dialog_negative">"Cancelar"</string>
+    <string name="btn_texto">"Mostrar mensaje de Bienvenida"</string>
+    <string name="btn_texto2">"Capturar correo electronico"</string>
+    <string name="btn_texto3">"Mostrar dialogo personalizado"</string>
+    <string name="btn_texto4">"Mostrar Toast"</string>
+    <string name="btn_texto5">"Mostrar Toast personalizado"</string>
+</resources>
